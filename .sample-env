@@ -1,0 +1,2 @@
+DEFAULT_TIMEOUT_INTERVAL=60000
+BASEURL=https://citaprevia.cbarc.es/
